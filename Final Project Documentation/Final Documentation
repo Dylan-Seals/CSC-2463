@@ -1,1 +1,12 @@
+All images and videos to showcase what I am talking about are in
+
+
+The original idea for my final project was a medieval running game where you had to jump over obstacles and take out enemies to make it to the end of the level.
+After I spent some more time thinking about it, I changed the project from a medieval setting to a more modern one. I went and found a cityscape background image that 
+I liked then I began to set up the level layout. I used gray platforms to make it look like you were on a roof, then used a red rectangle at the end of the level to 
+show that it was the finish line.
+
+After I got some sort of basic level layout I decided that I wanted to make my own sprites, then used Aseprite to do so. Once the sprites were complete I implemented them
+into the project. (They guy in the blue hoodie is the controlled character, and the guy in the suit is the enemy.)
+
 
