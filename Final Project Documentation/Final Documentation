@@ -1,5 +1,7 @@
 All images and videos to showcase what I am talking about here are in the Project Images and Video folder.
 
+My final project is called Rooftop Escape.
+
 
 The original idea for my final project was a medieval running game where you had to jump over obstacles and take out enemies to make it to the end of the level.
 After I spent some more time thinking about it, I changed the project from a medieval setting to a more modern one. I went and found a cityscape background image that 
@@ -7,6 +9,16 @@ I liked then I began to set up the level layout. I used gray platforms to make i
 show that it was the finish line.
 
 After I got some sort of basic level layout I decided that I wanted to make my own sprites, then used Aseprite to do so. Once the sprites were complete I implemented them
-into the project. (They guy in the blue hoodie is the controlled character, and the guy in the suit is the enemy.)
+into the project. (They guy in the blue hoodie is the controlled character, and the guy in the suit is the enemy.) Once this part was done I made a sort of 
+techno, cyberpunk style beat for the background music in my game by sequencing 4 notes. 
 
+For the hardware part of this project I decided to make a controller with my breadboard, it included a joystick for movement and a button to jump with.
 
+The game is set up to where you have to move the controlled character to the finish line with the controller (red rectangle) while avoiding falling down and touching the 
+guy in the suit.(if you do either of those you lose)
+
+If I were to continue development in the future I would want to set up:
+*Multiple levels
+*More background music for new levels
+*Add some sort of collectable in the levels (like a coin or something)
+*Give the enemies a path that they can move on
